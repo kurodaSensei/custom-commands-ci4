@@ -7,7 +7,7 @@ Custom commands to create controllers and models in Codeigniter 4, designed to f
 For installation, you only need to clone this repository.
 
 ```bash
-git clone https://KurodaSensei@bitbucket.org/KurodaSensei/custom-commands.git
+git clone https://KurodaSensei@bitbucket.org/KurodaSensei/custom-commands-ci4.git
 ```
 
 ## Usage
